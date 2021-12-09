@@ -7,8 +7,8 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
             <a class="nav-link active" aria-current="page" href="/resipe">Home</a>
-            <a class="nav-link" href="#">Explore</a>
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="/explore">Explore</a>
+            <a class="nav-link" href="/about">About</a>
         </div>
         </div>
     </div>

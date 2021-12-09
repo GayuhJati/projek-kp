@@ -11,7 +11,7 @@
                   <h6>All recipe of food that you can found and recipe that you can make
                       for your page or you just want to share your beautiful recipe to the world
                   </h6>
-                  <a class="btn btn-secondary tombol" href="resipe/create" role="button">Create Now</a>
+                  <a class="btn btn-secondary tombol" href="/register" role="button">Create Now</a>
               </div>
           </div>
           <div class="diffdiv rounded-sm mt-3" style="height: 100%">
